@@ -1,8 +1,11 @@
 # M73-tiny
+
 opencore-0.6.6
 在[司波图大大](https://www.bilibili.com/video/BV1ZK411J7SC?from=search&seid=12154782474010531287)的基础上把HD4600的显存扩展成了2048，修改了声音的id。
+
 ### 本机配置
----|:--|
+
+---|:--:
 机器型号|10AX0....
 cpu|i5-4590
 内存|2*4G
